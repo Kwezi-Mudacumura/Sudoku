@@ -4,7 +4,7 @@ a k × k grid of cells, where n = k*2). Some cells will have numbers already, an
 from {1, . . . , n} into each cell, such that each row, column and block contains every number once and only
 once. A valid Sudoku puzzle should have one unique solution.
 </br></br>
-Example of 9x9 sudoku:<a href="https://en.wikipedia.org/wiki/Sudoku">Exampleof9x9sudoku</a> </br></br>
+Example of 9x9 sudoku : <a href="https://en.wikipedia.org/wiki/Sudoku">Exampleof9x9sudoku</a> </br></br>
 For example, in Figure above on wikipedia, there are 9 rows and columns and 9 3 × 3 blocks. There are some cells with
 numbers in them already. The goal is to fill each empty cell with a number between 1 and 9 (inclusive). We can
 place 4 into the cell in the fourth row and first column (marked with a dot). This is a valid move because the
@@ -15,10 +15,10 @@ However, in this program, you will implement a Depth First Search(DFS) using rec
 algorithm where we make a decision and stick with it until we either solve the problem or discover that it was
 an incorrect choice. If it was incorrect, we backtrack or undo that decision, make a different one, and then try
 again. </br>
-Please note:The Sudoku will either have a unique or no solution.</p>
+Please note: The Sudoku will either have a unique or no solution.</p>
 </br>
 <p>
-Input:</br>
+Input:</br></br>
 This program read a Sudoku from stdin (using cin). It reads n integers, each separated by
 spaces. It contains values in {0, 1, . . . , n}. If a cell contains a 0 then it will be treated that cell as blank. The program handles Sudoku of one size only thus far:
   <ul>
@@ -39,7 +39,7 @@ Example of input:</br>
 5 7 0 1 0 0 2 0 0</br>
 9 2 8 0 0 0 0 6 0</br>
 </br>
-Output:</br>
+Output:</br></br>
 The program outputs the solved Sudoku with all the values separated by spaces, or if there is no solution, the text No Solution is outputted.
 </br>Example of output:</br>
 8 4 5 6 3 2 1 7 9</br>
