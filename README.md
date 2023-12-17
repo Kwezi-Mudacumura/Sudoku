@@ -27,7 +27,7 @@ spaces. It contains values in {0, 1, . . . , n}. If a cell contains a 0 then it 
 </br>
 
 The input is always be valid, and the program doesnt handle special cases with strange whitespace, etc.
-</br>
+</br></br>
 Example of input:</br>
 0 4 0 0 0 0 1 7 9</br>
 0 0 2 0 0 8 0 5 4</br>
@@ -41,7 +41,7 @@ Example of input:</br>
 </br>
 Output:</br></br>
 The program outputs the solved Sudoku with all the values separated by spaces, or if there is no solution, the text No Solution is outputted.
-</br>Example of output:</br>
+</br>Example of output:</br></br>
 8 4 5 6 3 2 1 7 9</br>
 7 3 2 9 1 8 6 5 4</br>
 1 9 6 7 4 5 3 2 8</br>
