@@ -51,7 +51,7 @@ The program outputs the solved Sudoku with all the values separated by spaces, o
 3 6 1 4 2 9 7 8 5</br>
 5 7 4 1 8 6 2 9 3</br>
 9 2 8 3 5 7 4 6 1</br>
-</br> or </br>No Solution
+</br> or </br></br>No Solution
 
 
 
