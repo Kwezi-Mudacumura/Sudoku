@@ -1,6 +1,6 @@
-<h1>9x9 sudoku program</h1>
+<h1>9x9 Sudoku program</h1>
 <p>A Sudoku is a number-placement puzzle. An n×n grid has n rows, n columns and n blocks (which is made of
-a k × k grid of cells, where n = k*2). Some cells will have numbers already, and the goal is to place a number
+a k × k grid of cells, where n = k^2). Some cells will have numbers already, and the goal is to place a number
 from {1, . . . , n} into each cell, such that each row, column and block contains every number once and only
 once. A valid Sudoku puzzle should have one unique solution.
 </br></br>
