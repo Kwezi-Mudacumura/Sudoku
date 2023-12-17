@@ -3,8 +3,8 @@
 a k × k grid of cells, where n = k*2). Some cells will have numbers already, and the goal is to place a number
 from {1, . . . , n} into each cell, such that each row, column and block contains every number once and only
 once. A valid Sudoku puzzle should have one unique solution.
-</br>
-Example of 9x9 sudoku:<a href="https://en.wikipedia.org/wiki/Sudoku">Exampleof9x9sudoku</a> </br>
+</br></br>
+Example of 9x9 sudoku:<a href="https://en.wikipedia.org/wiki/Sudoku">Exampleof9x9sudoku</a> </br></br>
 For example, in Figure above on wikipedia, there are 9 rows and columns and 9 3 × 3 blocks. There are some cells with
 numbers in them already. The goal is to fill each empty cell with a number between 1 and 9 (inclusive). We can
 place 4 into the cell in the fourth row and first column (marked with a dot). This is a valid move because the
@@ -51,7 +51,7 @@ The program outputs the solved Sudoku with all the values separated by spaces, o
 3 6 1 4 2 9 7 8 5</br>
 5 7 4 1 8 6 2 9 3</br>
 9 2 8 3 5 7 4 6 1</br>
-</br> or No Solution
+</br> or </br>No Solution
 
 
 
