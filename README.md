@@ -40,8 +40,8 @@ Example of input:</br>
 9 2 8 0 0 0 0 6 0</br>
 </br>
 Output:</br></br>
-The program outputs the solved Sudoku with all the values separated by spaces, or if there is no solution, the text No Solution is outputted.
-</br>Example of output:</br></br>
+The program outputs the solved Sudoku with all the values separated by spaces, or if there is no solution, the text No Solution is outputted.</br>
+</br>Example of output:</br>
 8 4 5 6 3 2 1 7 9</br>
 7 3 2 9 1 8 6 5 4</br>
 1 9 6 7 4 5 3 2 8</br>
