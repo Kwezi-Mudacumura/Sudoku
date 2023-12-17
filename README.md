@@ -4,7 +4,7 @@ a k × k grid of cells, where n = k*2). Some cells will have numbers already, an
 from {1, . . . , n} into each cell, such that each row, column and block contains every number once and only
 once. A valid Sudoku puzzle should have one unique solution.
 </br>
-<a href="https://en.wikipedia.org/wiki/Sudoku">Exampleof9x9sudoku</a> </br>
+Example of 9x9 sudoku:<a href="https://en.wikipedia.org/wiki/Sudoku">Exampleof9x9sudoku</a> </br>
 For example, in Figure above on wikipedia, there are 9 rows and columns and 9 3 × 3 blocks. There are some cells with
 numbers in them already. The goal is to fill each empty cell with a number between 1 and 9 (inclusive). We can
 place 4 into the cell in the fourth row and first column (marked with a dot). This is a valid move because the
